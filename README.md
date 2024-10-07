@@ -28,7 +28,7 @@ Evaluation of Software Manuals Using LLM-Powered GUI Agents: A Usability Benchma
   
 3. 모듈형
 - LLM 교체 가능하도록 설계(강한 연결을 하지 않고 자연어로 데이터만 주고받도록 설계)
-- 비전 모델 교체 가능하도록 설계(표준 데이터 송수신 형식을 설정하여 범용적으로 사용하도록 설계)
+- 비전 모델 교체 가능하도록 설계(내부 API 형식 등으로 설정하여 범용적으로 사용하도록 설계)
 
 ## 평가 프레임워크
 ISO/IEC 25023 Usability 기준(대응 국내 표준 KS X ISO/IEC 25023)
